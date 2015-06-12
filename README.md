@@ -1,2 +1,2 @@
 # testing
-Github Tutorial
+Its just a tutorial
